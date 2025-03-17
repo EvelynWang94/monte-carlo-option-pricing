@@ -84,7 +84,7 @@ Results show that **Halton Sequence (QMC) provides the best accuracy**, with the
 ## 🚀 Running the Code & Viewing Results
 
 All code, analysis, and results are contained in the Jupyter Notebook.  
-📌 Open: [`monte_carlo_option_pricing.ipynb`](./monte_carlo_option_pricing.ipynb)  
+📌 Open: [monte_carlo_option_pricing.ipynb](monte_carlo_option_pricing.ipynb)
 
 ### Run the Notebook Locally  
 1️⃣ **Clone the repository**  
