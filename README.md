@@ -85,6 +85,7 @@ Results show that **Halton Sequence (QMC) provides the best accuracy**, with the
 
 All code, analysis, and results are contained in the Jupyter Notebook.  
 📌 Open: [monte_carlo_option_pricing.ipynb](monte-carlo-option-pricing.ipynb)
+📄 Report: [Monte Carlo Simulations in Financial Derivatives Pricing](Monte_Carlo_Simulations_in_Financial_Derivatives_Pricing.pdf)  
 
 ### Run the Notebook Locally  
 1️⃣ **Clone the repository**  
